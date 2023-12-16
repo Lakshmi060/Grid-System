@@ -1,0 +1,17 @@
+h3{
+    color: blue;
+}
+
+li[class~="a"] {
+    color: red;
+}
+
+body{
+    background-color: plum;
+   background-attachment: fixed;
+   }
+   #i1{
+    background-color: grey;
+    border-style: solid ;
+    border-color: violet indigo blue red;
+    }
